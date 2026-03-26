@@ -1,0 +1,13 @@
+{
+  "name": "json-ld-extractor",
+  "version": "1.0.0",
+  "description": "a fast and lightweight service that retrieves JSON-LD (Linked Data) from any public webpage.",
+  "main": "index.js",
+  "repository": "https://github.com/HritikR/json-ld-extractor.git",
+  "author": "Hritik",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1",
+    "node-html-parser": "^7.1.0"
+  }
+}
